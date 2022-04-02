@@ -1,0 +1,15 @@
+C:\Users\Maca\source\repos\GuiaEjercicio3\bin\Debug\net6.0\GuiaEjercicio3.exe
+C:\Users\Maca\source\repos\GuiaEjercicio3\bin\Debug\net6.0\GuiaEjercicio3.deps.json
+C:\Users\Maca\source\repos\GuiaEjercicio3\bin\Debug\net6.0\GuiaEjercicio3.runtimeconfig.json
+C:\Users\Maca\source\repos\GuiaEjercicio3\bin\Debug\net6.0\GuiaEjercicio3.dll
+C:\Users\Maca\source\repos\GuiaEjercicio3\bin\Debug\net6.0\GuiaEjercicio3.pdb
+C:\Users\Maca\source\repos\GuiaEjercicio3\obj\Debug\net6.0\GuiaEjercicio3.csproj.AssemblyReference.cache
+C:\Users\Maca\source\repos\GuiaEjercicio3\obj\Debug\net6.0\GuiaEjercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maca\source\repos\GuiaEjercicio3\obj\Debug\net6.0\GuiaEjercicio3.AssemblyInfoInputs.cache
+C:\Users\Maca\source\repos\GuiaEjercicio3\obj\Debug\net6.0\GuiaEjercicio3.AssemblyInfo.cs
+C:\Users\Maca\source\repos\GuiaEjercicio3\obj\Debug\net6.0\GuiaEjercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Maca\source\repos\GuiaEjercicio3\obj\Debug\net6.0\GuiaEjercicio3.dll
+C:\Users\Maca\source\repos\GuiaEjercicio3\obj\Debug\net6.0\refint\GuiaEjercicio3.dll
+C:\Users\Maca\source\repos\GuiaEjercicio3\obj\Debug\net6.0\GuiaEjercicio3.pdb
+C:\Users\Maca\source\repos\GuiaEjercicio3\obj\Debug\net6.0\GuiaEjercicio3.genruntimeconfig.cache
+C:\Users\Maca\source\repos\GuiaEjercicio3\obj\Debug\net6.0\ref\GuiaEjercicio3.dll
